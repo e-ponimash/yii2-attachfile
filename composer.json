@@ -1,0 +1,13 @@
+{
+  "name": "eponimash/yii2-atatchfile",
+  "type": "yii2-extension",
+  "minimum-stability": "stable",
+  "require": {
+    "yiisoft/yii2": "~2.0.14"
+  },
+  "autoload": {
+    "psr-4": {
+      "eponimash\\attachfile\\": "src"
+    }
+  }
+}
